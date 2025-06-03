@@ -1,0 +1,1 @@
+#write a py prog to read an integer value and find number of 0's present in user entered number

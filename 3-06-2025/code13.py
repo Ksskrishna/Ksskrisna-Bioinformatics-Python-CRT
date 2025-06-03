@@ -1,0 +1,1 @@
+#write a py prog to read an integer value and find summation of even digits and odd digits present in that number
