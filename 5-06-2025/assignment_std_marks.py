@@ -1,0 +1,2 @@
+#write a python program to read marks of 5 students for 3 subjects each and print the marks list from individual student along with class where
+#if student is gaining more than 90% it is 1st class, 2nd class more than 75%, 3rd class more than 50% and fail if it is less than 50%
