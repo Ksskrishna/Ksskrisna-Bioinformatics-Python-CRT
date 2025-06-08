@@ -1,0 +1,5 @@
+tuple1 = (20,30,21,34,2,42,1,3)
+print(f"max of tuple is : {max(tuple1)}")
+print(f"min of tuple is : {min(tuple1)}")
+print(f"sum of tuple is : {sum(tuple1)}")
+print(f"sort of tuple is : {tuple1}")
