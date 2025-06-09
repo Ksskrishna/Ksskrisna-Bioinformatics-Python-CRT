@@ -1,0 +1,12 @@
+string = "Python Program"
+print(string[1:5])
+print(f' {string [0]}')
+print(string[3:6])
+print(string[9:3])
+print(string[7:13])
+print(string[10:])
+print(string[7:10])
+print(string[2:8])
+print(string[::-3])
+print(string[-9::-3])
+print(string[-1:9:-1])
