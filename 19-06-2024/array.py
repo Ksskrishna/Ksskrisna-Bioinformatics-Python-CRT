@@ -1,0 +1,21 @@
+import numpy as np
+print(np.__version__)
+
+ARR1 = np.array([1,2,3,4,5,6,7,8])
+print(ARR1)
+print(type(ARR1))
+arr2 = np.array([[10,20],[30,40],[50,60]])
+print(arr2.ndim)
+print(type(arr2))
+arr3 = np.array([[[10,20,30],[40,50,60],[70,80,90]]])
+print(arr3.ndim)
+print(type(arr3))
+print(arr3[0][0])
+print(arr3[0][1])
+print(arr3[0][2])
+print(arr3[1][1])
+print(arr3[1][2])
+print(arr3[2][0])
+print(arr3[2][1])
+print(arr3[2][2])
+
