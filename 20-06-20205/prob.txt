@@ -1,0 +1,12 @@
+print square numbers from 1 - n
+print square numbers from n - 1
+print prime numbers from 1 - n
+print prime numbers from n - 1
+Calculate Factorial of N using recursion. 
+Calculate Sum of First N Natural Numbers using recursion. 
+print the power of given number using recursion. 
+Calculate Sum of Digits of the given number using recursion 
+Calculate Count of Digits of the given number using recursion 
+Reverse the String using recursion. 
+Calculate Maximum element from the list using recursion 
+Calculate Minimum element from the list using recursion.

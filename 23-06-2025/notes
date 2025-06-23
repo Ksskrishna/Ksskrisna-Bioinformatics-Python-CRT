@@ -1,0 +1,15 @@
+FIFO - first in first out
+items are removed in the same order they were added
+
+enqueue
+dequeue
+peek front
+is empty
+
+differences btw stack and queue
+stack - lofo
+add the element from last and remove from first
+like a stack of plates
+operations - push,pop,peek
+use undo operations and function calls
+
