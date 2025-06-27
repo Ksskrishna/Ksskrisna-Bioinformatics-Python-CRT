@@ -11,8 +11,8 @@ Print QR or barcode
 
 Read back via scanner to load details
 
-🔧 Libraries: qrcode, uuid, csv, pyzbar
-🧠 DSA: Dict (sample info), UUID or auto-increment
+ Libraries: qrcode, uuid, csv, pyzbar
+ DSA: Dict (sample info), UUID or auto-increment
 '''
 import uuid
 import csv
