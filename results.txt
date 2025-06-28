@@ -1,0 +1,4 @@
+Alice-2 votes
+Bob-2 votes
+Tom-2 votes
+Jerry-1 votes
